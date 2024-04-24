@@ -1,0 +1,2 @@
+# socrates
+MBA Full Stack
